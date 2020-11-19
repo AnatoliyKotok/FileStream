@@ -1,0 +1,7 @@
+C:\Users\Anatoliy\source\repos\FileWorkerHomeWork\FileWorkerHomeWork\bin\Debug\FileWorkerHomeWork.exe.config
+C:\Users\Anatoliy\source\repos\FileWorkerHomeWork\FileWorkerHomeWork\bin\Debug\FileWorkerHomeWork.exe
+C:\Users\Anatoliy\source\repos\FileWorkerHomeWork\FileWorkerHomeWork\bin\Debug\FileWorkerHomeWork.pdb
+C:\Users\Anatoliy\source\repos\FileWorkerHomeWork\FileWorkerHomeWork\obj\Debug\FileWorkerHomeWork.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\FileWorkerHomeWork\FileWorkerHomeWork\obj\Debug\FileWorkerHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\source\repos\FileWorkerHomeWork\FileWorkerHomeWork\obj\Debug\FileWorkerHomeWork.exe
+C:\Users\Anatoliy\source\repos\FileWorkerHomeWork\FileWorkerHomeWork\obj\Debug\FileWorkerHomeWork.pdb
